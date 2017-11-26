@@ -5,7 +5,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Example Inc. Status
+title: New Gaming Haven status page
 
 # What language is this page in?
 # Only alters the html[lang] attribute
@@ -14,7 +14,7 @@ languageCode: en-US
 # What is the hostname or path to the root?
 # Where is the site hosted?
 # Example: https://status.example.com/
-baseURL: https://status.example.com/
+baseURL: https://status.newgaminghaven.com/
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -29,8 +29,8 @@ params:
   # change the amount of components.
   systems:
     - Core
-    - EU
-    - US
+    - TWitch Bot
+    - MineCraft
 
   # Should we show the logo or the title
   # of the status page?
